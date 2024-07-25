@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with my friends.
 - 📫 How to reach me: Whatsapp.
 - 😄 Pronouns: she
-- ⚡ Fun fact: laughing with my fiends.
+- ⚡ Fun fact: laughing with my friends.
 <!---
 anu588/anu588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
